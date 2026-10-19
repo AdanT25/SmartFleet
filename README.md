@@ -5,7 +5,7 @@ Este módulo implementa una Red Bayesiana para el **diagnóstico de fallas mecá
 
 ## Video Demo
 Puedes ver la demostración del funcionamiento del proyecto y las consultas de inferencia en el siguiente enlace:
-👉 [Video Demo - SmartFleet (YouTube)](https://youtu.be/__J_qH7IzTU)
+👉 [Proyecto 2 – Módulo 2: Redes Bayesianas (YouTube)](https://youtu.be/__J_qH7IzTU)
 
 ## Estructura de la Red
 **Variables:**
